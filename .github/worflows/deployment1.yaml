@@ -1,5 +1,5 @@
 name: Deployemnt Excercise
-on: push
+on: push ori master
 jobs:
   lint:
     runs-on: ubuntu-latest
